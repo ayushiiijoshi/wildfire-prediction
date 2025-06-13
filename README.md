@@ -40,20 +40,23 @@ Built for researchers, analysts, emergency responders, and policymakers to monit
 
    ```bash
    git clone git@github.com:your-username/wildfire-detection.git
-   cd wildfire-detection```
+   cd wildfire-detection
 
 2. **Create Virtual Environment**
 
-    ```python3 -m venv env
-    source env/bin/activate```
+    ```bash
+    python3 -m venv env
+    source env/bin/activate
 
 3. **Install Dependencies**
 
-    ```pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 4. **Run Streamlit app**
 
-    ```streamlit run notebooks/dashboard.py
+    ```bash
+    streamlit run notebooks/dashboard.py
 
 ## 📁 File Structure
 
