@@ -2,8 +2,6 @@
 
 An interactive, satellite-powered dashboard to monitor near real-time wildfire activity across the United States.
 
-![screenshot](static/screenshot.png)
-
 ## 📍 About
 
 This dashboard visualizes active fire data from the **NASA FIRMS VIIRS** (Visible Infrared Imaging Radiometer Suite) satellite. It provides insights into wildfire detections by:
