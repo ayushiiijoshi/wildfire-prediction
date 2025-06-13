@@ -49,11 +49,11 @@ Built for researchers, analysts, emergency responders, and policymakers to monit
 
 3. **Install Dependencies**
 
-    ```pip install -r requirements.txt```
+    ```pip install -r requirements.txt
 
 4. **Run Streamlit app**
 
-    ```streamlit run notebooks/dashboard.py```
+    ```streamlit run notebooks/dashboard.py
 
 ## 📁 File Structure
 
